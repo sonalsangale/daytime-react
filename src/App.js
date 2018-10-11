@@ -1,14 +1,31 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Button from "@material-ui/core/Button";
+import {
+  BrowserRouter as Router,
+  Route,
+  Link
+} from 'react-router-dom'
 import Login from './components/login';
+import Dashboard from './components/dashboard';
+import Employees from './components/employees';
+import Gems from './components/gems';
+import Leaves from './components/leaves';
+import Projects from './components/projects';
+import Clients from './components/clients';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <Login> </Login>
-      </div>
+      <Router>
+        <div>
+          <Route exact path="/login" component={Login}/>
+          <Route exact path="/dashboard" component={Dashboard}/>
+          <Route exact path="/employees" component={Employees}/>
+          <Route exact path="/gems" component={Gems}/>
+          <Route exact path="/leaves" component={Leaves}/>
+          <Route exact path="/projects" component={Projects}/>
+          <Route exact path="/clients" component={Clients}/>
+        </div>
+      </Router>
     );
   }
 }

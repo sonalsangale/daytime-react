@@ -6,7 +6,7 @@ class Login extends Component {
   render() {
     return (
       <div>
-        Login Component
+      <img src={require('../../assets/gLogin.png')}></img>
       </div>
     );
   }
