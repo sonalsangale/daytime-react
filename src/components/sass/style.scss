@@ -1,0 +1,33 @@
+/**
+  Includes default styles.
+*/
+@import "base";
+
+/**
+  Includes variables, basic configurations.
+*/
+@import "config";
+
+/**
+  Includes fonts.
+*/
+@import "font";
+
+/**
+  Includes layout styles.
+*/
+@import "layout";
+
+/**
+  Includes code for overridding external plugins.
+*/
+@import "utils";
+
+/**
+  Includes reset styles.
+*/
+@import "reset";
+
+body {
+  background: #000000;
+}

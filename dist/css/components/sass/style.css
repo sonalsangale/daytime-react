@@ -1,0 +1,27 @@
+/**
+  Includes default styles.
+*/
+body {
+  background: blue;
+}
+
+/**
+  Includes variables, basic configurations.
+*/
+/**
+  Includes fonts.
+*/
+/**
+  Includes layout styles.
+*/
+/**
+  Includes code for overridding external plugins.
+*/
+/**
+  Includes reset styles.
+*/
+body {
+  background: #000000;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvc2Fzcy9zdHlsZS5zY3NzIiwiY29tcG9uZW50cy9zYXNzL19iYXNlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0VBRUU7QUNGRjtFQUNFLGlCQUFnQjtDQUNqQjs7QURHRDs7RUFFRTtBQUdGOztFQUVFO0FBR0Y7O0VBRUU7QUFHRjs7RUFFRTtBQUdGOztFQUVFO0FBR0Y7RUFDRSxvQkFBbUI7Q0FDcEIiLCJmaWxlIjoiY29tcG9uZW50cy9zYXNzL3N0eWxlLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICBJbmNsdWRlcyBkZWZhdWx0IHN0eWxlcy5cbiovXG5AaW1wb3J0IFwiYmFzZVwiO1xuXG4vKipcbiAgSW5jbHVkZXMgdmFyaWFibGVzLCBiYXNpYyBjb25maWd1cmF0aW9ucy5cbiovXG5AaW1wb3J0IFwiY29uZmlnXCI7XG5cbi8qKlxuICBJbmNsdWRlcyBmb250cy5cbiovXG5AaW1wb3J0IFwiZm9udFwiO1xuXG4vKipcbiAgSW5jbHVkZXMgbGF5b3V0IHN0eWxlcy5cbiovXG5AaW1wb3J0IFwibGF5b3V0XCI7XG5cbi8qKlxuICBJbmNsdWRlcyBjb2RlIGZvciBvdmVycmlkZGluZyBleHRlcm5hbCBwbHVnaW5zLlxuKi9cbkBpbXBvcnQgXCJ1dGlsc1wiO1xuXG4vKipcbiAgSW5jbHVkZXMgcmVzZXQgc3R5bGVzLlxuKi9cbkBpbXBvcnQgXCJyZXNldFwiO1xuXG5ib2R5IHtcbiAgYmFja2dyb3VuZDogIzAwMDAwMDtcbn1cbiIsImJvZHkge1xuICBiYWNrZ3JvdW5kOiBibHVlO1xufVxuIl19 */
